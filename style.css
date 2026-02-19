@@ -2,8 +2,12 @@ p{
     text-align: center;
     color: rgb(0, 0, 0);
     font-size: 40px;
+    color: beige;
 }
 
-body{
-    
+.cabecalho{
+    background-color: rgb(247, 228, 88);
+    height: 150px;
+    width: 100%;
+    align-content: center;
 }
